@@ -1,0 +1,13 @@
+{
+  "name": "express-router-assignment",
+  "version": "1.0.0",
+  "description": "Express Router assignment using ES6 modules",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
